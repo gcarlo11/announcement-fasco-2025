@@ -1,0 +1,212 @@
+[
+  {
+    "nim": "09031182328024",
+    "nama": "Ridho Pramana Putra",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09021282227107",
+    "nama": "Muhammad Adrian",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09021282227080",
+    "nama": "Mutiara Anastasya Sihaloho",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09021182328022",
+    "nama": "Syakirah Febriani",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09031282328107",
+    "nama": "Desna Wary Yerty Purba",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09011282227071",
+    "nama": "Ekklesia Sarah Timothy Sihaloho",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09011382227152",
+    "nama": "Fauziah Rachel Audrey Chelsea",
+    "departemen": "Scientific Event Organizer (SEO)",
+    "status": true
+  },
+  {
+    "nim": "09021182328024",
+    "nama": "Ibrahim Ryansyah Putra",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09011282227078",
+    "nama": "Iren Veronika Sirait",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09011282227033",
+    "nama": "Tsaniatu Zahrah Azizah",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09031182328011",
+    "nama": "Aulia Pinkasari",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09011282227077",
+    "nama": "Gracya Nurmala Sinurat ",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09011282328039",
+    "nama": "Adzkia Zulfa Amara ",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09021282328035",
+    "nama": "Leonardo Gunawan ",
+    "departemen": "Keilmuan",
+    "status": true
+  },
+  {
+    "nim": "09010182327006",
+    "nama": "Fahri Ramadhan",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09021282227113",
+    "nama": "Dian Maheru",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09011282328051",
+    "nama": "Nadia Triwana",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09021282227111",
+    "nama": "Zidane Putra Fadilah",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09021182328031",
+    "nama": "Nur Bariza Mula",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09031282328047",
+    "nama": "Mei Intan Natasyah",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
+    "nim": "09031382328125",
+    "nama": "Lailla Syal Syabilla",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09031182328002",
+    "nama": "Shafa Aurelliza Arian",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09031282328074",
+    "nama": "Sella Juniastia Marsya S",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09031182328097",
+    "nama": "Meiyin Monca Amilia",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09011382328147",
+    "nama": "Muhammad Raihan Maulana",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09031182328001",
+    "nama": "Aliya Faiza",
+    "departemen": "Dana dan Usaha (DANUS)",
+    "status": true
+  },
+  {
+    "nim": "09011182227120",
+    "nama": "Berti Ayuzahara ",
+    "departemen": "Dana dan Usaha (DANUS)",
+    "status": false
+  },
+  {
+    "nim": "09011282227099",
+    "nama": "Siskia Israwana",
+    "departemen": "Dana dan Usaha (DANUS)",
+    "status": true
+  },
+  {
+    "nim": "09011282227119",
+    "nama": "Alyssa Khairunisa Maharani",
+    "departemen": "Dana dan Usaha (DANUS)",
+    "status": true
+  },
+  {
+    "nim": "09021282227046",
+    "nama": "Rizki Pebrian",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09021282227048",
+    "nama": "M. Akbar Kevin",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09021282227040",
+    "nama": "Muhammad Rizki Sepriadi",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09021182227013",
+    "nama": "Mohammad Fahrezi",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09011282328092",
+    "nama": "Satrio Joronggur Mahendra",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09021282227126",
+    "nama": "Ferdi Yudiansyah",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  }
+]
