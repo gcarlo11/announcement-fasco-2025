@@ -20,7 +20,7 @@ function handlePeriksa() {
             pesan.innerHTML =
               "<b>" +
               data[i].nama +
-              "</b> kamu dinyatakan lolos seleksi Open Recruitment FASCO 2024. Anda diterima di Departemen <b>" +
+              "</b> kamu dinyatakan lolos seleksi Open Recruitment FASCO 2025. Anda diterima di Departemen <b>" +
               data[i].departemen +
               "</b>";
             terima.classList.toggle("hidden");
