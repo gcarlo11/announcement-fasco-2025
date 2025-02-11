@@ -1,0 +1,335 @@
+/* Add font files for Pinyon Script */
+@font-face {
+  font-family: 'Pinyon Script';
+  src: url('fonts/pinyon-script.woff2') format('woff2'),
+       url('fonts/pinyon-script.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Add font files for DM Serif Text */
+@font-face {
+  font-family: 'DM Serif Text';
+  src: url('fonts/dm-serif-text.woff2') format('woff2'),
+       url('fonts/dm-serif-text.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --orange: rgba(221, 85, 42, 1);
+  --light-grey: rgba(218, 212, 210, 1);
+  --grey: rgba(120, 118, 117, 1);
+  --dark-grey: rgba(33, 32, 32, 1);
+  --dark-blue: rgba(4, 51, 93, 1);
+  --blue: rgba(6, 86, 155, 1);
+  --yellow: rgba(248, 224, 13, 1);
+  --font-family-pinyon-script: 'Pinyon Script', sans-serif;
+  --font-family-dm-serif-text: 'DM Serif Text', sans-serif;
+  --font-family-poppins: 'Poppins', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.rectangle-36-3 {
+  position: absolute;
+  left: 123px;
+  top: 181px;
+  width: 1195px;
+  height: 735px;
+  background-color: rgba(4, 51, 93, 1);
+  border-radius: 2px;
+}
+
+.rectangle-38-5 {
+  position: absolute;
+  left: 123px;
+  top: 181px;
+  width: 1195px;
+  height: 735px;
+  background-color: rgba(4, 51, 93, 1);
+  border-radius: 2px;
+}
+
+.scratch-2-6 {
+  position: absolute;
+  left: -201.70599365234375px;
+  top: 58.68144226074219px;
+  width: 2172.8447265625px;
+  height: 1141.316650390625px;
+  opacity: 0.5299999713897705;
+  mix-blend-mode: screen;
+  width: 100%;
+  height: auto;
+}
+
+.mask-group-4 {
+  position: absolute;
+  left: 123px;
+  top: 181px;
+  width: 1195px;
+  height: 735px;
+}
+
+.group-363-2 {
+  position: absolute;
+  left: 123px;
+  top: 181px;
+  width: 1195px;
+  height: 735px;
+}
+
+.yellow-asterisk-8 {
+  position: absolute;
+  left: 931.3589291248705px;
+  top: 371.1548678635911px;
+  width: 64.65763854980469px;
+  height: 68.42853546142578px;
+  border: 6.436995029449463px solid rgba(255, 255, 255, 1);
+  border-radius: 1.8391412496566772px;
+}
+
+.yellow-asterisk-10 {
+  position: absolute;
+  left: 931.358929124872px;
+  top: 371.1548678635909px;
+  width: 64.65763854980469px;
+  height: 68.42853546142578px;
+  border-radius: 1.8391412496566772px;
+}
+
+.noise-2-2-11 {
+  position: absolute;
+  left: 918.0906568169172px;
+  top: 373.0575433853242px;
+  width: 88.025634765625px;
+  height: 88.11471557617188px;
+  mix-blend-mode: multiply;
+  width: 100%;
+  height: auto;
+}
+
+.mask-group-9 {
+  position: absolute;
+  left: 930.000122070314px;
+  top: 371.4062499999997px;
+  width: 66.02376556396484px;
+  height: 69.8398208618164px;
+}
+
+.pink-asterisk-7 {
+  position: absolute;
+  left: 930.0001220703125px;
+  top: 371.40625px;
+  width: 66.02379608154297px;
+  height: 69.83983612060547px;
+}
+
+.yellow-star-13 {
+  position: absolute;
+  left: 503.62571994658015px;
+  top: 189.82407215310275px;
+  width: 204.96743774414062px;
+  height: 209.0194549560547px;
+  border: 3.529042959213257px solid rgba(255, 255, 255, 1);
+  border-radius: 2.8232345581054688px;
+}
+
+.yellow-star-15 {
+  position: absolute;
+  left: 503.6241602907688px;
+  top: 189.82418095072867px;
+  width: 204.96742248535156px;
+  height: 209.0194549560547px;
+  border-radius: 2.8232345581054688px;
+}
+
+.noise-2-2-16 {
+  position: absolute;
+  left: 613.7715856242539px;
+  top: 393.30479340327906px;
+  width: 205.6439666748047px;
+  height: 212.95452880859375px;
+  width: 100%;
+  height: auto;
+}
+
+.mask-group-14 {
+  position: absolute;
+  left: 639.9700718964976px;
+  top: 390.2696377912762px;
+  width: 233.66116333007812px;
+  height: 240.001953125px;
+  mix-blend-mode: multiply;
+}
+
+.star-12 {
+  position: absolute;
+  left: 639.9718017578125px;
+  top: 390.26953125px;
+  width: 233.66261291503906px;
+  height: 240.0025634765625px;
+}
+
+.text-18 {
+  position: absolute;
+  left: 480px;
+  top: 249px;
+  width: 143px;
+  height: 180px;
+  border: 10.314781188964844px solid rgba(255, 255, 255, 1);
+  font-size: 200px;
+  font-family: var(--font-family-pinyon-script);
+  font-weight: normal;
+  text-align: left;
+  color: rgba(4, 51, 93, 1);
+}
+
+.text-19 {
+  position: absolute;
+  left: 570px;
+  top: 345px;
+  width: 390px;
+  height: 95px;
+  border: 7.220347881317139px solid rgba(255, 255, 255, 1);
+  font-size: 70px;
+  font-family: var(--font-family-dm-serif-text);
+  font-weight: normal;
+  text-align: left;
+  color: rgba(4, 51, 93, 1);
+}
+
+.group-1579-17 {
+  position: absolute;
+  left: 480px;
+  top: 249px;
+  width: 480px;
+  height: 191px;
+}
+
+.text-20 {
+  position: absolute;
+  left: 295px;
+  top: 440px;
+  width: 850px;
+  height: 72px;
+  font-size: 48px;
+  font-family: var(--font-family-poppins);
+  font-weight: bold;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.logo-uread-23 {
+  position: absolute;
+  left: 99.07275390625px;
+  top: 19px;
+  width: 70px;
+  height: 51.47058868408203px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 100%;
+  height: auto;
+}
+
+.node-24 {
+  position: absolute;
+  left: 24px;
+  top: 10px;
+  width: 55.89743423461914px;
+  height: 68.94017028808594px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 100%;
+  height: auto;
+}
+
+.logo-fasco-1-25 {
+  position: absolute;
+  left: 188.07275390625px;
+  top: 19px;
+  width: 50px;
+  height: 50.943397521972656px;
+  width: 100%;
+  height: auto;
+}
+
+.logo-22 {
+  position: absolute;
+  left: 24px;
+  top: 10px;
+  width: 214.07275390625px;
+  height: 68.94017028808594px;
+}
+
+.header-21 {
+  position: absolute;
+  left: 588px;
+  top: 48px;
+  width: 265px;
+  height: 85px;
+  background-color: rgba(247, 247, 247, 1);
+  border-radius: 18px;
+}
+
+.rectangle-4283-26 {
+  position: absolute;
+  left: 285px;
+  top: 614px;
+  width: 871px;
+  height: 71px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(176, 176, 176, 1);
+  border-radius: 6px;
+}
+
+.rectangle-4284-27 {
+  position: absolute;
+  left: 624px;
+  top: 720px;
+  width: 192px;
+  height: 59px;
+  background-color: rgba(227, 182, 0, 1);
+  border-radius: 9px;
+}
+
+.text-28 {
+  position: absolute;
+  left: 656px;
+  top: 722px;
+  width: 128px;
+  height: 54px;
+  font-size: 36px;
+  font-family: var(--font-family-poppins);
+  font-weight: normal;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-29 {
+  position: absolute;
+  left: 554px;
+  top: 544px;
+  width: 332px;
+  height: 48px;
+  font-size: 32px;
+  font-family: var(--font-family-poppins);
+  font-weight: bold;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.desktop-1-1 {
+  position: absolute;
+  left: -43px;
+  top: 32914px;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 1);
+}
