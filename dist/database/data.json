@@ -108,6 +108,12 @@
     "status": true
   },
   {
+    "nim": "09031182429001",
+    "nama": "Rio Adrian Dwi Putra",
+    "departemen": "Hubungan Masyarakat (HUMAS)",
+    "status": true
+  },
+  {
     "nim": "09010582327094",
     "nama": "Rakhel Radhita",
     "departemen": "Human Resource Development (HRD)",
@@ -140,6 +146,12 @@
   {
     "nim": "09010282428042",
     "nama": "Intan Nuraini",
+    "departemen": "Human Resource Development (HRD)",
+    "status": true
+  },
+  {
+    "nim": "09021282428043",
+    "nama": "Hafidz Fairuz Amany",
     "departemen": "Human Resource Development (HRD)",
     "status": true
   },
@@ -212,6 +224,12 @@
   {
     "nim": "09021282429093",
     "nama": "Amirul Nur Cahyo",
+    "departemen": "Media dan Informasi (MEDINFO)",
+    "status": true
+  },
+  {
+    "nim": "09021282429109",
+    "nama": "Stevanus Parise Jona Sitorus",
     "departemen": "Media dan Informasi (MEDINFO)",
     "status": true
   }

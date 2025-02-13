@@ -18,11 +18,11 @@ function handlePeriksa() {
               salah.classList.toggle("hidden");
             }
             pesan.innerHTML =
-              "<b>" +
-              data[i].nama +
-              "</b> kamu dinyatakan lolos seleksi Open Recruitment FASCO 2025. Anda diterima di Departemen <b>" +
-              data[i].departemen +
-              "</b>";
+            "<b>" +
+            data[i].nama +
+            "</b> kamu dinyatakan lolos seleksi Open Recruitment FASCO 2025. Kamu diterima di Departemen <b>" +
+            data[i].departemen +
+            "</b>.<br><br><b>Silahkan</b> masuk ke grup melalui link berikut: <a href='https://chat.whatsapp.com/IkOGh3tQddKHPoczSFq8rp' target='_blank'><u>Join WhatsApp Group</u></a>";
             terima.classList.toggle("hidden");
 
             return;
